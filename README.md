@@ -14,7 +14,7 @@ Jednoduchu aplikaciu na sledovanie pocasia. Pouzite technologie: Laravel, vue.js
 
 ## Malé video k projektu
 **[Odkaz na video TU](https://drive.google.com/drive/folders/1FzPYpKg9ivi6aB7KHwdy9mBMLd43GZqY?usp=sharing)**
-# Po git clone nefunguju spravne obrazky a ich animacie. Preto je dobre si pozriet videoukazku projektu...
+### !!! Po git clone nefunguju spravne obrazky a ich animacie. Preto je dobre si pozriet videoukazku projektu... !!!
 
 ## Ako spustit
 1. git clone https://github.com/Dingo497/Weather-app-SPA
